@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "280828792822-rphpp10c4j84shn8fup73tiu1i17lgc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anime_verse",
+            "certificate_hash": "b0983100622ed32ca1f527f04e92ef7bb7969887"
+          }
+        },
+        {
           "client_id": "280828792822-rv3pd1upm4cmv8nq7cucmuh70p2910m5.apps.googleusercontent.com",
           "client_type": 3
         }
